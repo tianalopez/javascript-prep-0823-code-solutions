@@ -6,7 +6,11 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What data types can object properties hold?
 
+string, array, class and the value type can vary from a number, boolean, etc.
+
 - Describe the syntax (structure) of object-literals in JavaScript.
+
+const [name of object you are creating] = {key: value};
 
 ## Notes
 
