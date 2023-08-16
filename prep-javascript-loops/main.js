@@ -35,6 +35,7 @@ function forLoop2() {
     console.log(`Time till explosion ${i}!`);
   }
 }
+// Don't put console log, because the final value will be undefined
 console.log(forLoop2());
 
 function forInLoop1(object) {
